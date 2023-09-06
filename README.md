@@ -1,2 +1,2 @@
-# Bootcoding-Projevt-Training-23
+# Bootcoding-Project-Training-23
 Learning Java Coding 
